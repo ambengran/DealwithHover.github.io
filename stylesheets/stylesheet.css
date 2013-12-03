@@ -48,6 +48,10 @@
   }
 }
 
+body {
+  margin: 0 auto;
+}
+
 ul.products {
   list-style: none;
   position: relative;
@@ -349,6 +353,7 @@ ul.products li.product .product-details .price:hover {
   .woocommerce-tabs ul.tabs li {
     font-size: 1em!important;
   }
+  
 }
 @media only screen and (max-width: 480px) {
   ul.products li.product .product-details .details {
