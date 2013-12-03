@@ -49,7 +49,7 @@
 }
 
 body {
-  margin: 0 auto !important;
+  margin: 0 auto;
 }
 
 ul.products {
@@ -65,7 +65,7 @@ ul.products:after {
   clear: both;
 }
 ul.products li.product {
-  width: 20%;
+  width: 48%;
   float: left;
   clear: left;
   margin-bottom: 4.236em;
@@ -353,7 +353,7 @@ ul.products li.product .product-details .price:hover {
   .woocommerce-tabs ul.tabs li {
     font-size: 1em!important;
   }
-  
+
 }
 @media only screen and (max-width: 480px) {
   ul.products li.product .product-details .details {
