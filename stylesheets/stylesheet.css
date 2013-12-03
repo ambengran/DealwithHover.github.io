@@ -1665,3 +1665,7 @@ table.cart .actions .checkout-button {
   margin: 0 auto;
   position: relative;
 }
+
+ul.products li.product a img:hover {
+  opacity: 0.75;
+}
